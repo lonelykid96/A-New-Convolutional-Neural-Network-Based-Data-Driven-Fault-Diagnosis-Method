@@ -9,3 +9,7 @@ The .py file is an implemention of CNN. But I do not provide how to preprocess t
 Reference:
 </br>
 L. Wen, X. Li, L. Gao and Y. Zhang, "A New Convolutional Neural Network-Based Data-Driven Fault Diagnosis Method," in IEEE Transactions on Industrial Electronics, vol. 65, no. 7, pp. 5990-5998, July 2018.
+
+输入64 64图像
+输出2类
+LeNet-5结构：4卷积池化层+1全连接层+1全连接输出层
